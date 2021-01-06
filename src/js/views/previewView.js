@@ -27,7 +27,7 @@ import icons from 'url:../../img/icons.svg';
 
 // export default new PreviewView();
 
-import View from './view';
+import View from './View';
 
 export default class PreviewView extends View {
   _generateMarkup() {
